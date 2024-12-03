@@ -1,3 +1,5 @@
+# WARNING: With the upgrade to Angular 18, we switched back to the (now-fixed) upstream version [JSDaddy/ngx-mask](https://github.com/JSDaddy/ngx-mask). So don't use this fork anymore!
+
 <a href="https://jsdaddy.github.io/ngx-mask">
   <h1 align="center">ngx-mask</h1>
 </a>
